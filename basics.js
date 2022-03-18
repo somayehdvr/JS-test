@@ -2,5 +2,5 @@ const dishes = ['Spaghetti', 'Lasagne', 'Beans on toast', 'Porridge', 'Tomato so
     'Salmon'];
 
 for (let i = 0; i < dishes.length; i++){
-    console.log(dishes[i] + "\n")
+    console.log(dishes[i])
 }
